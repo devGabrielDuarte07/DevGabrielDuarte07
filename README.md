@@ -9,7 +9,7 @@
 
 ## 📌 Sobre Mim
 
-Tenho 17 anos e estudo Desenvolvimento de Sistemas no SENAI, com foco em soluções web usando JavaScript e C#. Sou apaixonado por tecnologia e motivado a resolver problemas de forma criativa e eficiente.
+Tenho 18 anos e estudo Desenvolvimento de Sistemas no SENAI, com foco em soluções web usando JavaScript e C#. Sou apaixonado por tecnologia e motivado a resolver problemas de forma criativa e eficiente.
 Além da programação, curto futebol, música e jogos — hobbies que me ajudam a manter a mente leve e inspirada.
 
 ---
